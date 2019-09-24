@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "flynn-buildpack-npmrc"
+exit 0
